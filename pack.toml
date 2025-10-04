@@ -1,0 +1,12 @@
+name = "ARC Unofficial"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7de38c787fffce02094ae28fd333d0aa530e35286a0cd9cd2e6aab60a4e5627d"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.9"

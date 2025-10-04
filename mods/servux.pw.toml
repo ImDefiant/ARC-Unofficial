@@ -1,0 +1,13 @@
+name = "Servux"
+filename = "servux-fabric-1.21.9-0.8.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/zQhsx8KF/versions/kvG7yTOG/servux-fabric-1.21.9-0.8.0.jar"
+hash-format = "sha1"
+hash = "460b3f24791ab42a71f7ca4667523a46ee907671"
+
+[update]
+[update.modrinth]
+mod-id = "zQhsx8KF"
+version = "kvG7yTOG"

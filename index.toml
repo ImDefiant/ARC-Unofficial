@@ -1,0 +1,105 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "fe5e424d6b9bb1d00b5590f44b72c939971d8d9cac8fba62c1441f9aa0b858e5"
+
+[[files]]
+file = "mods/better-beacon-placement.pw.toml"
+hash = "f5286e0009cceae2f4b813a8edcfb79bdbe97b1c5be6ada03748bfd937828159"
+metafile = true
+
+[[files]]
+file = "mods/better-conduit-placement.pw.toml"
+hash = "d890c87c49be1553031b3900e37a9dc6eac47e0ab7a1b6e44a130913c43a6eb1"
+metafile = true
+
+[[files]]
+file = "mods/blasting-plus.pw.toml"
+hash = "461c3abf9f0a3932cca35f658f06176aa5e41cf7e27116295be361a91592e1e1"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "0fc6da903eef228fa48aa7d282086568768ad898aa8cf2d8a3b646266e9662cd"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "74f3f84d4853dd7521fa7beb3de5a627eec1631c844faca00ba53004a8d51d1c"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "11a371154fd7c5851f6d559b73ee73e998efa9eb824dfbfcfd26f966f021102f"
+metafile = true
+
+[[files]]
+file = "mods/conduits-prevent-drowned.pw.toml"
+hash = "fa6ec277d6736bd0b543b1352023fabb61882a1f67d6f7ed6d98f6ff312c2398"
+metafile = true
+
+[[files]]
+file = "mods/dragon-drops-elytra.pw.toml"
+hash = "96463d42e12bc7b7c424be565a0236ad8aaa3d7e6304dc4c151872cb2b504c0e"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "8d38d6384680488a17754a9dd73dfa95880a451b62c5d6eb5290aaaa6fd41d96"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "33ef54b98586efebf9f3afbbdb4789e9b384940a3c60b43c3cd7a3a05363b66f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d50a70cd12c8cc0bad73ca4c78dfa1943597232e6dd58c7504ed0dde09438ffe"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "f1da925ae791df99a453d1e135cb3c7a390c861a6ae9db299e19ffc83dfed680"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c6d68c2723fb26b60ab12d823ea14452eecfad8f6c05b3219b343b0d84333136"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "3cf9a0568db483b600f337e0e310cf0c224181b128742506bd883ec26fc94319"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "4a81bcae9593fd51fc1f1aeb351e52e427122cb3d7738ed48fb43f6b72a2c221"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "619b9c6bcaddcd4fe602a5f11614b53290c5217694b6dd3255217f62695d3d91"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "69a9209f7c9f7ff89b096aefbd0688cd33be98ba32b8722deebe37c60428aeb4"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "0a916cb7682f4d998d3f64682c43c2df6efafdeb1a1c2c3cad05dec892df5c81"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "70d8e1e4193241135d462204b2911dc59ce01f90fdec9ece5ba6e6f5fcc6fc63"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "04021801736adcec148d9db10e445583f04cb0c7561f01315e58f3b49c50214a"
+metafile = true
