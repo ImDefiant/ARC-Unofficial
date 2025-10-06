@@ -30,6 +30,16 @@ hash = "74f3f84d4853dd7521fa7beb3de5a627eec1631c844faca00ba53004a8d51d1c"
 metafile = true
 
 [[files]]
+file = "mods/chunky-player-pause.pw.toml"
+hash = "11c043ca21247c0db3894ed098ed48254caebd98a530a4004dfa07da28bf032b"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "075cf210e07a626d30a6b05aa523e2dc00446cc815d51911f636f73ceb879590"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "11a371154fd7c5851f6d559b73ee73e998efa9eb824dfbfcfd26f966f021102f"
 metafile = true
@@ -50,6 +60,11 @@ hash = "8d38d6384680488a17754a9dd73dfa95880a451b62c5d6eb5290aaaa6fd41d96"
 metafile = true
 
 [[files]]
+file = "mods/explorify.pw.toml"
+hash = "a48707ac6dacc665315caa2c2d03280c7478ddb93083f0d68d2e530e084cdeb2"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "33ef54b98586efebf9f3afbbdb4789e9b384940a3c60b43c3cd7a3a05363b66f"
 metafile = true
@@ -62,6 +77,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "f1da925ae791df99a453d1e135cb3c7a390c861a6ae9db299e19ffc83dfed680"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "d962af812a7b0e7ccb6239c0caf55f907576f9c762ac00de58ebfd4784f812d7"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "a66e2bd6deccaab80afcfebec417d29fd19597c6231eb475112717848a5a6f94"
 metafile = true
 
 [[files]]
@@ -86,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "69a9209f7c9f7ff89b096aefbd0688cd33be98ba32b8722deebe37c60428aeb4"
+hash = "6e0c273c2745eec6c41140a2b0f2e68e9f67886e187410728c31fa1b56decd48"
 metafile = true
 
 [[files]]

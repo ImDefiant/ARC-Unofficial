@@ -1,0 +1,13 @@
+name = "Chunky Player Pause"
+filename = "chunky-player-pause-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wYO04fON/versions/syFw8296/chunky-player-pause-1.0.1.jar"
+hash-format = "sha1"
+hash = "ebdf23985a1534f4015f11b803ee1ace2e63a29c"
+
+[update]
+[update.modrinth]
+mod-id = "wYO04fON"
+version = "syFw8296"
