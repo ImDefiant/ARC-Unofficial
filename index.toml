@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "fe5e424d6b9bb1d00b5590f44b72c939971d8d9cac8fba62c1441f9aa0b858e5"
-
-[[files]]
 file = "mods/better-beacon-placement.pw.toml"
 hash = "f5286e0009cceae2f4b813a8edcfb79bdbe97b1c5be6ada03748bfd937828159"
 metafile = true
