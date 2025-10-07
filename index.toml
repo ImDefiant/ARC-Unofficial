@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "0fc6da903eef228fa48aa7d282086568768ad898aa8cf2d8a3b646266e9662cd"
+hash = "72166e992a4787cf72ef94f030601a38526527259507493c72ade957ebb83e13"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "3cf9a0568db483b600f337e0e310cf0c224181b128742506bd883ec26fc94319"
+hash = "6e204c1373ddd8622b4f8ba2d7f94fb987e11dfff217560a706ca118f1beb55d"
 metafile = true
 
 [[files]]
@@ -112,6 +112,21 @@ metafile = true
 [[files]]
 file = "mods/servux.pw.toml"
 hash = "6e0c273c2745eec6c41140a2b0f2e68e9f67886e187410728c31fa1b56decd48"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "b87bc045dc42bb523c09b330f65b47f401b5c80894dfa6e95cf06baf21b2060e"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "be22b82e1acf08ef74267059a921faa9b2fafd2458225228cf43b34f943c395d"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "627472a76ccdb6ba8e038f8050723cb9442676ee37b25a4933d98beaffc98133"
 metafile = true
 
 [[files]]
