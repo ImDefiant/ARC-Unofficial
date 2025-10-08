@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/better-beacon-placement.pw.toml"
-hash = "f5286e0009cceae2f4b813a8edcfb79bdbe97b1c5be6ada03748bfd937828159"
+hash = "c349885d5c9430a551bb1a215453341f7a2ec1783f2715f5515f12fa606559e8"
 metafile = true
 
 [[files]]
 file = "mods/better-conduit-placement.pw.toml"
-hash = "d890c87c49be1553031b3900e37a9dc6eac47e0ab7a1b6e44a130913c43a6eb1"
+hash = "4653bec041e6ddcb67491975153f53965ffc631124e8651c66fd3152ae8040de"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-player-pause.pw.toml"
-hash = "11c043ca21247c0db3894ed098ed48254caebd98a530a4004dfa07da28bf032b"
+hash = "36f19df1c093e366eb4ab1aebe5f0c71acb58e8ff4e9a8036f6c0aa7a72e47e0"
 metafile = true
 
 [[files]]
@@ -37,17 +37,17 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "11a371154fd7c5851f6d559b73ee73e998efa9eb824dfbfcfd26f966f021102f"
+hash = "177f407e0df9ef427647a9617d87ef4c8fc0cc561bab64925d76aa3435a33e43"
 metafile = true
 
 [[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
-hash = "fa6ec277d6736bd0b543b1352023fabb61882a1f67d6f7ed6d98f6ff312c2398"
+hash = "84c5d550e2abd1281628d00225184fb567160d8f91aa7021b53fd7985b666e71"
 metafile = true
 
 [[files]]
 file = "mods/dragon-drops-elytra.pw.toml"
-hash = "96463d42e12bc7b7c424be565a0236ad8aaa3d7e6304dc4c151872cb2b504c0e"
+hash = "167c431731f1610a46319bdb84fa2515fe5e2024c680a7d498ebe0ef71413d36"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "33ef54b98586efebf9f3afbbdb4789e9b384940a3c60b43c3cd7a3a05363b66f"
+hash = "92cd12441c5ff7ad74ab96ec15b0a5f7f53b8942ff57e90191d542fcb1e73d72"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c6d68c2723fb26b60ab12d823ea14452eecfad8f6c05b3219b343b0d84333136"
+hash = "5cad7f0ea3144019f6fb6dddfba5f7f78cdb1a6ce620151e581176acd197bcaf"
 metafile = true
 
 [[files]]
@@ -127,12 +127,12 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "0a916cb7682f4d998d3f64682c43c2df6efafdeb1a1c2c3cad05dec892df5c81"
+hash = "c545f2d9b2cca20ead494fa706f32e6c0d610f1692b1d3269d574a838ab4e577"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "70d8e1e4193241135d462204b2911dc59ce01f90fdec9ece5ba6e6f5fcc6fc63"
+hash = "61c559a38e176d46e5a29eb9bf05fc0c01c6beb43b58bee4f06d12d1fd5621d2"
 metafile = true
 
 [[files]]
