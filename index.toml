@@ -21,11 +21,6 @@ hash = "72166e992a4787cf72ef94f030601a38526527259507493c72ade957ebb83e13"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "74f3f84d4853dd7521fa7beb3de5a627eec1631c844faca00ba53004a8d51d1c"
-metafile = true
-
-[[files]]
 file = "mods/chunky-player-pause.pw.toml"
 hash = "36f19df1c093e366eb4ab1aebe5f0c71acb58e8ff4e9a8036f6c0aa7a72e47e0"
 metafile = true
@@ -51,11 +46,6 @@ hash = "167c431731f1610a46319bdb84fa2515fe5e2024c680a7d498ebe0ef71413d36"
 metafile = true
 
 [[files]]
-file = "mods/essential-commands.pw.toml"
-hash = "8d38d6384680488a17754a9dd73dfa95880a451b62c5d6eb5290aaaa6fd41d96"
-metafile = true
-
-[[files]]
 file = "mods/explorify.pw.toml"
 hash = "a48707ac6dacc665315caa2c2d03280c7478ddb93083f0d68d2e530e084cdeb2"
 metafile = true
@@ -71,21 +61,6 @@ hash = "d50a70cd12c8cc0bad73ca4c78dfa1943597232e6dd58c7504ed0dde09438ffe"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "f1da925ae791df99a453d1e135cb3c7a390c861a6ae9db299e19ffc83dfed680"
-metafile = true
-
-[[files]]
-file = "mods/floodgate.pw.toml"
-hash = "d962af812a7b0e7ccb6239c0caf55f907576f9c762ac00de58ebfd4784f812d7"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "a66e2bd6deccaab80afcfebec417d29fd19597c6231eb475112717848a5a6f94"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "5cad7f0ea3144019f6fb6dddfba5f7f78cdb1a6ce620151e581176acd197bcaf"
 metafile = true
@@ -93,11 +68,6 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "6e204c1373ddd8622b4f8ba2d7f94fb987e11dfff217560a706ca118f1beb55d"
-metafile = true
-
-[[files]]
-file = "mods/luckperms.pw.toml"
-hash = "4a81bcae9593fd51fc1f1aeb351e52e427122cb3d7738ed48fb43f6b72a2c221"
 metafile = true
 
 [[files]]
@@ -133,9 +103,4 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "61c559a38e176d46e5a29eb9bf05fc0c01c6beb43b58bee4f06d12d1fd5621d2"
-metafile = true
-
-[[files]]
-file = "mods/wits.pw.toml"
-hash = "04021801736adcec148d9db10e445583f04cb0c7561f01315e58f3b49c50214a"
 metafile = true
