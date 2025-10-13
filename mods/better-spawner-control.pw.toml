@@ -1,0 +1,13 @@
+name = "Better Spawner Control"
+filename = "betterspawnercontrol-1.21.10-4.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hmAeYRJT/versions/9u6NQoYW/betterspawnercontrol-1.21.10-4.7.jar"
+hash-format = "sha1"
+hash = "e4b4e942eafd2390bf06c4801d13d251c24bb948"
+
+[update]
+[update.modrinth]
+mod-id = "hmAeYRJT"
+version = "9u6NQoYW"

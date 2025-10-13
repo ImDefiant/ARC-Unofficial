@@ -11,13 +11,28 @@ hash = "4653bec041e6ddcb67491975153f53965ffc631124e8651c66fd3152ae8040de"
 metafile = true
 
 [[files]]
+file = "mods/better-spawner-control.pw.toml"
+hash = "493f636c1feec00004865460a1c94e5db85fb5fe7dc9f44792411c9e992cc5ee"
+metafile = true
+
+[[files]]
 file = "mods/blasting-plus.pw.toml"
 hash = "461c3abf9f0a3932cca35f658f06176aa5e41cf7e27116295be361a91592e1e1"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "72166e992a4787cf72ef94f030601a38526527259507493c72ade957ebb83e13"
+hash = "958c6de78cc373365e027091f6466f24129838eaa9a92dee171fbd2f9b3b3b82"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "11f67e0dbc3bd85dafbdf65b57a5bb7dbcbce24267d63c7a4ba69331d8be83c4"
+metafile = true
+
+[[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "0b1a599e3838cf041b598bd3aa456ff6cd24b1883dfb4c5899d25a9768afb0cf"
 metafile = true
 
 [[files]]
@@ -41,13 +56,18 @@ hash = "84c5d550e2abd1281628d00225184fb567160d8f91aa7021b53fd7985b666e71"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "254f4cfc2912b9ae59ee611f52939a8d4dede62c58d4227e9140712464a7a316"
+metafile = true
+
+[[files]]
 file = "mods/dragon-drops-elytra.pw.toml"
 hash = "167c431731f1610a46319bdb84fa2515fe5e2024c680a7d498ebe0ef71413d36"
 metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "a48707ac6dacc665315caa2c2d03280c7478ddb93083f0d68d2e530e084cdeb2"
+hash = "bcd03e49bc0fbfdd27480880ed0cd227fc17b90502cdc99a047ef74f3302a5fe"
 metafile = true
 
 [[files]]
@@ -61,6 +81,21 @@ hash = "d50a70cd12c8cc0bad73ca4c78dfa1943597232e6dd58c7504ed0dde09438ffe"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "f1da925ae791df99a453d1e135cb3c7a390c861a6ae9db299e19ffc83dfed680"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "d962af812a7b0e7ccb6239c0caf55f907576f9c762ac00de58ebfd4784f812d7"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "ae38de57c95c646e2f05e8d15ba8b6cceb191e379160cd4a1cf8a5b20f3fd409"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "5cad7f0ea3144019f6fb6dddfba5f7f78cdb1a6ce620151e581176acd197bcaf"
 metafile = true
@@ -71,6 +106,21 @@ hash = "6e204c1373ddd8622b4f8ba2d7f94fb987e11dfff217560a706ca118f1beb55d"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "2b49f28c7ca9d6c75fde3c1a8e8adbec1b6fb87a23f1e6765cd384ae5d29e713"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "dc42fba868fde98b94dddc02e054924bfab2902ed33fe7dc995cfa03aaceb267"
+metafile = true
+
+[[files]]
+file = "mods/no-animal-tempt-delay.pw.toml"
+hash = "e3eae9c377c0773eddd0728f0de9cd00c459cd026c747c8dcf504a4a8136edee"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "619b9c6bcaddcd4fe602a5f11614b53290c5217694b6dd3255217f62695d3d91"
 metafile = true
@@ -78,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/servux.pw.toml"
 hash = "6e0c273c2745eec6c41140a2b0f2e68e9f67886e187410728c31fa1b56decd48"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "8ea3dfa30999021bf9c0a0c9a369403f0d9cfeb40dc980a79d1a9f525d5ebc41"
 metafile = true
 
 [[files]]
@@ -98,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "c545f2d9b2cca20ead494fa706f32e6c0d610f1692b1d3269d574a838ab4e577"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "2e38abe38877f59439b03178a0a177f90a7319c3a0a1f50332934adba36b24ea"
 metafile = true
 
 [[files]]

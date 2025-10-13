@@ -1,15 +1,13 @@
 name = "ARC Unofficial"
+author = "Defiant"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0b4ec9e89a375ecb1dcfaf9d32e69950cb07643fb0ceb645e4534f9f9e052f63"
+hash = "5ee84fff3d15e5f703dad130e9abd45686c2e4bdd0bea913fe0391857e785572"
 
 [versions]
-fabric = "0.17.2"
+fabric = "0.17.3"
 minecraft = "1.21.10"
-
-[options]
-acceptable-game-versions = ["1.21.10"]
