@@ -71,6 +71,11 @@ hash = "167c431731f1610a46319bdb84fa2515fe5e2024c680a7d498ebe0ef71413d36"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "8d38d6384680488a17754a9dd73dfa95880a451b62c5d6eb5290aaaa6fd41d96"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "bcd03e49bc0fbfdd27480880ed0cd227fc17b90502cdc99a047ef74f3302a5fe"
 metafile = true
