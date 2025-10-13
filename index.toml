@@ -101,6 +101,11 @@ hash = "ae38de57c95c646e2f05e8d15ba8b6cceb191e379160cd4a1cf8a5b20f3fd409"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "a66e2bd6deccaab80afcfebec417d29fd19597c6231eb475112717848a5a6f94"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "5cad7f0ea3144019f6fb6dddfba5f7f78cdb1a6ce620151e581176acd197bcaf"
 metafile = true
