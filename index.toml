@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/async.pw.toml"
+hash = "bbfcf4aa5a3887dca532da7ea1469c994f01ee0685afcf46961a582aed4f4e6d"
+metafile = true
+
+[[files]]
 file = "mods/better-beacon-placement.pw.toml"
 hash = "c349885d5c9430a551bb1a215453341f7a2ec1783f2715f5515f12fa606559e8"
 metafile = true
@@ -126,6 +131,11 @@ hash = "619b9c6bcaddcd4fe602a5f11614b53290c5217694b6dd3255217f62695d3d91"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "a93862dc31f56fae1ba90acda3d4b6b6afbab76720ade5b21f6026316d2f5625"
+metafile = true
+
+[[files]]
 file = "mods/servux.pw.toml"
 hash = "6e0c273c2745eec6c41140a2b0f2e68e9f67886e187410728c31fa1b56decd48"
 metafile = true
@@ -133,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "8ea3dfa30999021bf9c0a0c9a369403f0d9cfeb40dc980a79d1a9f525d5ebc41"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
 
 [[files]]
