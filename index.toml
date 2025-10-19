@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "958c6de78cc373365e027091f6466f24129838eaa9a92dee171fbd2f9b3b3b82"
+hash = "428ebe713fe2490a58bfd45123fbde6733aed6b5dfd6f1af90f966ce3a011d38"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "11f67e0dbc3bd85dafbdf65b57a5bb7dbcbce24267d63c7a4ba69331d8be83c4"
+hash = "c6214a3903e034a911d984f84a98ad04fd7a0f76431d16986458ceb782b7d8c1"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "177f407e0df9ef427647a9617d87ef4c8fc0cc561bab64925d76aa3435a33e43"
+hash = "653244fd3abb686b8dd96e4f716151a7d8218f3b6896deb72464afdb6d6938f3"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "92cd12441c5ff7ad74ab96ec15b0a5f7f53b8942ff57e90191d542fcb1e73d72"
+hash = "d09dbae85ab6873db34fdce389beeb551704feb8c379bf183a71e6fa423d3198"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "ae38de57c95c646e2f05e8d15ba8b6cceb191e379160cd4a1cf8a5b20f3fd409"
+hash = "5b1405a08e1b2c5cd4044808ba3d53947e88a8d7b1576de4a358d88dcfa9fa2c"
 metafile = true
 
 [[files]]
@@ -127,12 +127,17 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "dc42fba868fde98b94dddc02e054924bfab2902ed33fe7dc995cfa03aaceb267"
+hash = "bc59e692422d05a1cb4c6712c1ad1777bec427d458aa8ee73172631e021bacfb"
 metafile = true
 
 [[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
 hash = "e3eae9c377c0773eddd0728f0de9cd00c459cd026c747c8dcf504a4a8136edee"
+metafile = true
+
+[[files]]
+file = "mods/ore-harvester.pw.toml"
+hash = "b0628ad24e9ea2d25a09b4f7be86d59a2c08e3c6ea22e6eb165bd5820e3a2401"
 metafile = true
 
 [[files]]
@@ -177,12 +182,17 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "627472a76ccdb6ba8e038f8050723cb9442676ee37b25a4933d98beaffc98133"
+hash = "5fa8a9bdf7bed768403cc9d08436aae11770e93d29f34305258e1c65aa7b3bdf"
 metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "c545f2d9b2cca20ead494fa706f32e6c0d610f1692b1d3269d574a838ab4e577"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "9c5c2ba6a1884331927e7e1330ec935795d53ee3ac7785d2221b8d293530299a"
 metafile = true
 
 [[files]]
