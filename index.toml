@@ -156,6 +156,11 @@ hash = "6e0c273c2745eec6c41140a2b0f2e68e9f67886e187410728c31fa1b56decd48"
 metafile = true
 
 [[files]]
+file = "mods/silkier-touch.pw.toml"
+hash = "ae875a41497ac5592bf9e3ce55e264075254cb490a4ae62eaccca198dc3c14b1"
+metafile = true
+
+[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "8ea3dfa30999021bf9c0a0c9a369403f0d9cfeb40dc980a79d1a9f525d5ebc41"
 metafile = true
