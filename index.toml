@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "428ebe713fe2490a58bfd45123fbde6733aed6b5dfd6f1af90f966ce3a011d38"
+hash = "320a468830815fcccd4ddcb9db09826123566d451c176163fc59ba8ba33798b7"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "653244fd3abb686b8dd96e4f716151a7d8218f3b6896deb72464afdb6d6938f3"
+hash = "69eaf2f64936bcd2fbd0dd1eb5caba5afc0bb211296d75268e45202f8e24595a"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
-hash = "254f4cfc2912b9ae59ee611f52939a8d4dede62c58d4227e9140712464a7a316"
+hash = "7ea4ba59a05e863699125775688a48d8f6fbd1f11703d7a0c6b78b5b32bab1dd"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "5b1405a08e1b2c5cd4044808ba3d53947e88a8d7b1576de4a358d88dcfa9fa2c"
+hash = "fd501a01ac66c82a6ec26114e1a08c5486e0f93a266cfb4de0e02860a15bfbc7"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "6e0c273c2745eec6c41140a2b0f2e68e9f67886e187410728c31fa1b56decd48"
+hash = "8bc80ba305ced3cfc65dd3654ecd1986ab141a7b0489167acea28483745990f7"
 metafile = true
 
 [[files]]
