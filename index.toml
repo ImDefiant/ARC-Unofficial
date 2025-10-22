@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "69eaf2f64936bcd2fbd0dd1eb5caba5afc0bb211296d75268e45202f8e24595a"
+hash = "afd95c9647d905cc4c90d08098702ed76107e952b3316f0696aed599e9869858"
 metafile = true
 
 [[files]]
@@ -63,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/configurable.pw.toml"
 hash = "7ea4ba59a05e863699125775688a48d8f6fbd1f11703d7a0c6b78b5b32bab1dd"
+metafile = true
+
+[[files]]
+file = "mods/death-counter.pw.toml"
+hash = "dc56c94d702e64e0e31ca53f0c52be188a931e6a4e4f48e932df4a32a1a43b5a"
 metafile = true
 
 [[files]]
@@ -102,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "fd501a01ac66c82a6ec26114e1a08c5486e0f93a266cfb4de0e02860a15bfbc7"
+hash = "6ee29344ce9d8cd740c3d1b949e207b7ee1d6a54c73c9c71ac03d1da62d3be7d"
 metafile = true
 
 [[files]]
@@ -208,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "61c559a38e176d46e5a29eb9bf05fc0c01c6beb43b58bee4f06d12d1fd5621d2"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "04021801736adcec148d9db10e445583f04cb0c7561f01315e58f3b49c50214a"
 metafile = true
 
 [[files]]

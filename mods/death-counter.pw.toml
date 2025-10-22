@@ -1,0 +1,13 @@
+name = "Death Counter"
+filename = "death-counter-1.21.9-2025.10.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7x0zk3YH/versions/nXWOnyU8/death-counter-1.21.9-2025.10.1.jar"
+hash-format = "sha1"
+hash = "6e1baf991d5d044685094eee4a1a77266ccbd7d1"
+
+[update]
+[update.modrinth]
+mod-id = "7x0zk3YH"
+version = "nXWOnyU8"
