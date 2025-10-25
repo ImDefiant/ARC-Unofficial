@@ -1,0 +1,13 @@
+name = "When Dungeons Arise: Seven Seas"
+filename = "DungeonsAriseSevenSeas-1.21.x-1.0.4-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZsrrjDbP/versions/tTpWP44G/DungeonsAriseSevenSeas-1.21.x-1.0.4-fabric.jar"
+hash-format = "sha1"
+hash = "6eb17659981d37106c84149643c5b10073d220d8"
+
+[update]
+[update.modrinth]
+mod-id = "ZsrrjDbP"
+version = "tTpWP44G"

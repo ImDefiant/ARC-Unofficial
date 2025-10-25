@@ -26,6 +26,16 @@ hash = "461c3abf9f0a3932cca35f658f06176aa5e41cf7e27116295be361a91592e1e1"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "17b8443e8c6808c914b4d18fd45b6aa12e8d6e46b8dd5516f68bcd9c97f2e09c"
+metafile = true
+
+[[files]]
+file = "mods/bluemapvisabilitytoggle.pw.toml"
+hash = "2ec72749073876ea2806708a3516d3461f72a501234e0e3287a3d7952a1c1695"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "01273ff5790a7611c33f3d2ff62aca772dfb9dd695ed48f2426271d42c0b30f5"
 metafile = true
@@ -131,6 +141,11 @@ hash = "2b49f28c7ca9d6c75fde3c1a8e8adbec1b6fb87a23f1e6765cd384ae5d29e713"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "bd66790187015d9984fda33bb7bb5c47863474e71e6839b0e2ae5eb6931db404"
+metafile = true
+
+[[files]]
 file = "mods/mine-spawners.pw.toml"
 hash = "1e2f0297dad9a97b3adeff61b862d148d8cb03875736feace77d8e4d90b35e6a"
 metafile = true
@@ -148,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/ore-harvester.pw.toml"
 hash = "b0628ad24e9ea2d25a09b4f7be86d59a2c08e3c6ea22e6eb165bd5820e3a2401"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "d07dcf38f97eb948b4efa5a640a11712730f9ef25874f5f71293ebd579a55a62"
 metafile = true
 
 [[files]]
@@ -206,6 +226,11 @@ hash = "9c5c2ba6a1884331927e7e1330ec935795d53ee3ac7785d2221b8d293530299a"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "f9bbb787554239a92b6b15c028f3da00e5b048bdd0419ddda90cd2194ecb3069"
+metafile = true
+
+[[files]]
 file = "mods/view-distance-fix.pw.toml"
 hash = "2e38abe38877f59439b03178a0a177f90a7319c3a0a1f50332934adba36b24ea"
 metafile = true
@@ -213,6 +238,16 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "61c559a38e176d46e5a29eb9bf05fc0c01c6beb43b58bee4f06d12d1fd5621d2"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-seven-seas.pw.toml"
+hash = "630293187d48345e6e91bae742958e8cfc65045d687522249a0fb1874b61b42b"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "05a86077d48ba789cec0c7b6e9f66735fa54159adfbc85071c5675110924be28"
 metafile = true
 
 [[files]]
