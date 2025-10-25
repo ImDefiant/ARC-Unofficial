@@ -86,6 +86,16 @@ hash = "167c431731f1610a46319bdb84fa2515fe5e2024c680a7d498ebe0ef71413d36"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "264931944eef542b38ecdda8be978fbd03bf13ad961a6bcf3f1a98e15d32d5ae"
+metafile = true
+
+[[files]]
+file = "mods/entity-health-bars.pw.toml"
+hash = "691e2b17050c16cdb8396a8cc732b612ce355d7a515940dc1a1f1d212749c420"
+metafile = true
+
+[[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "8d38d6384680488a17754a9dd73dfa95880a451b62c5d6eb5290aaaa6fd41d96"
 metafile = true
@@ -158,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
 hash = "e3eae9c377c0773eddd0728f0de9cd00c459cd026c747c8dcf504a4a8136edee"
+metafile = true
+
+[[files]]
+file = "mods/nofun-dnt.pw.toml"
+hash = "ae846ab77fa3ac719c2da5b4adb1b324c21d43e3790e03c895ad4c646830816f"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Entity Health Bars"
+filename = "entity-health-bars-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aoSJG3fh/versions/YJrFD0Oi/entity-health-bars-1.0.7.jar"
+hash-format = "sha1"
+hash = "77370222eee34eca933b4f20aaa6f6077ba639aa"
+
+[update]
+[update.modrinth]
+mod-id = "aoSJG3fh"
+version = "YJrFD0Oi"
