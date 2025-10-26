@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "01273ff5790a7611c33f3d2ff62aca772dfb9dd695ed48f2426271d42c0b30f5"
+hash = "8b2715d91ca25f7b84d7307ce0e9e17835d5bd0de54baa4d72350405ec7d7291"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "afd95c9647d905cc4c90d08098702ed76107e952b3316f0696aed599e9869858"
+hash = "3c6b206bface93aee9075a0c18c0ebe91026932610c52ae86489f1055342bbbf"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "70181c0edc6644b29f9c7406a9b77206525e0a5dbbb2bb62a98cbf1f4ebde51b"
+hash = "bb43165eb7ec03be3ed5d78122536a463b4124dc3e7168dc48c7e782ff99d5b5"
 metafile = true
 
 [[files]]
@@ -272,5 +272,5 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "ba6218db8cedc72c0035b9f683db783b5acffdd787acf08c7f473cf111343654"
+hash = "39b4cccb2535a746e6597c84eaaa3052c0c20f2dd0704dfe853ffa5853dfb3d6"
 metafile = true
