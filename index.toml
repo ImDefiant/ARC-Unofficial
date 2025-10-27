@@ -61,6 +61,11 @@ hash = "075cf210e07a626d30a6b05aa523e2dc00446cc815d51911f636f73ceb879590"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5fae7bac63ec0c58b1b7746246e34781682f9db22de95e53e02b0581757a1af5"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "3c6b206bface93aee9075a0c18c0ebe91026932610c52ae86489f1055342bbbf"
 metafile = true
@@ -273,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "5fa8a9bdf7bed768403cc9d08436aae11770e93d29f34305258e1c65aa7b3bdf"
+metafile = true
+
+[[files]]
+file = "mods/too-cheap.pw.toml"
+hash = "6b6115895fe0ebbd9183941f3be07aed35867b4cfdc0d351dbfb59ec170785d7"
 metafile = true
 
 [[files]]
