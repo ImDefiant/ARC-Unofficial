@@ -101,6 +101,41 @@ hash = "8d38d6384680488a17754a9dd73dfa95880a451b62c5d6eb5290aaaa6fd41d96"
 metafile = true
 
 [[files]]
+file = "mods/expanded-armor-enchanting.pw.toml"
+hash = "1f7a2e53538c8d27509124464549b1645caed3342bd14f00e7cc4bccf8a54a8e"
+metafile = true
+
+[[files]]
+file = "mods/expanded-axe-enchanting.pw.toml"
+hash = "747a19d00f440da67e76af7fefdc52dc89d3bf74a742d97fb37ba1c2d9b69915"
+metafile = true
+
+[[files]]
+file = "mods/expanded-bow-enchanting.pw.toml"
+hash = "e758c0d6c6d5d6ed82421168573ee9b12232ff4e9c6d416ac4923503eaf12912"
+metafile = true
+
+[[files]]
+file = "mods/expanded-crossbow-enchanting.pw.toml"
+hash = "23be4005c18ea2c71e640e2f1a4a53d5b0625f035418440acb1768303d12befe"
+metafile = true
+
+[[files]]
+file = "mods/expanded-mace-enchanting.pw.toml"
+hash = "1fa82f8e26426bebbe9c6f12feb8dca2411b12576ffdd7c7e79ec131a1398931"
+metafile = true
+
+[[files]]
+file = "mods/expanded-trident-enchanting.pw.toml"
+hash = "4750cb29bbbc9363b8d5c89903a070a2dba7073e9de97dd33c2a294ce34e949d"
+metafile = true
+
+[[files]]
+file = "mods/expanded-weapon-enchanting.pw.toml"
+hash = "3b976983db1ff6e011372d1c2a92f8a51b882eb4dfb28b17a52f7a0e598357e4"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "bcd03e49bc0fbfdd27480880ed0cd227fc17b90502cdc99a047ef74f3302a5fe"
 metafile = true
@@ -126,8 +161,13 @@ hash = "d962af812a7b0e7ccb6239c0caf55f907576f9c762ac00de58ebfd4784f812d7"
 metafile = true
 
 [[files]]
+file = "mods/followers-teleport-too.pw.toml"
+hash = "e84d010ee838b06a917f8eb2d3cc91d3c923591d1e1dbb1446827169026a49b8"
+metafile = true
+
+[[files]]
 file = "mods/geyser.pw.toml"
-hash = "bb43165eb7ec03be3ed5d78122536a463b4124dc3e7168dc48c7e782ff99d5b5"
+hash = "dd283385e817b97aef751ecf9e8d4a08244f71079276b2c5c5e79b66e0969118"
 metafile = true
 
 [[files]]
@@ -178,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/ore-harvester.pw.toml"
 hash = "b0628ad24e9ea2d25a09b4f7be86d59a2c08e3c6ea22e6eb165bd5820e3a2401"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "5a8266ecf742e57419d77b2ab0a55697243a7f6ea68bf61f3ec1b0e059dec7ed"
 metafile = true
 
 [[files]]
