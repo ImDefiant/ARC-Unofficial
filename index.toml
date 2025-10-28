@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "dd283385e817b97aef751ecf9e8d4a08244f71079276b2c5c5e79b66e0969118"
+hash = "290786dee1867ba1f518e20025ef7b5a8a90233617bcab23e22a5a79fdd75914"
 metafile = true
 
 [[files]]
@@ -228,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "5a8266ecf742e57419d77b2ab0a55697243a7f6ea68bf61f3ec1b0e059dec7ed"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "8271f3d4fbc017aa6aa1a94f22de94ea61cb09afcf1e8e0e368b98092e6d0cd7"
 metafile = true
 
 [[files]]
