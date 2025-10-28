@@ -106,41 +106,6 @@ hash = "8d38d6384680488a17754a9dd73dfa95880a451b62c5d6eb5290aaaa6fd41d96"
 metafile = true
 
 [[files]]
-file = "mods/expanded-armor-enchanting.pw.toml"
-hash = "1f7a2e53538c8d27509124464549b1645caed3342bd14f00e7cc4bccf8a54a8e"
-metafile = true
-
-[[files]]
-file = "mods/expanded-axe-enchanting.pw.toml"
-hash = "747a19d00f440da67e76af7fefdc52dc89d3bf74a742d97fb37ba1c2d9b69915"
-metafile = true
-
-[[files]]
-file = "mods/expanded-bow-enchanting.pw.toml"
-hash = "e758c0d6c6d5d6ed82421168573ee9b12232ff4e9c6d416ac4923503eaf12912"
-metafile = true
-
-[[files]]
-file = "mods/expanded-crossbow-enchanting.pw.toml"
-hash = "23be4005c18ea2c71e640e2f1a4a53d5b0625f035418440acb1768303d12befe"
-metafile = true
-
-[[files]]
-file = "mods/expanded-mace-enchanting.pw.toml"
-hash = "1fa82f8e26426bebbe9c6f12feb8dca2411b12576ffdd7c7e79ec131a1398931"
-metafile = true
-
-[[files]]
-file = "mods/expanded-trident-enchanting.pw.toml"
-hash = "4750cb29bbbc9363b8d5c89903a070a2dba7073e9de97dd33c2a294ce34e949d"
-metafile = true
-
-[[files]]
-file = "mods/expanded-weapon-enchanting.pw.toml"
-hash = "3b976983db1ff6e011372d1c2a92f8a51b882eb4dfb28b17a52f7a0e598357e4"
-metafile = true
-
-[[files]]
 file = "mods/explorify.pw.toml"
 hash = "bcd03e49bc0fbfdd27480880ed0cd227fc17b90502cdc99a047ef74f3302a5fe"
 metafile = true
@@ -168,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/followers-teleport-too.pw.toml"
 hash = "e84d010ee838b06a917f8eb2d3cc91d3c923591d1e1dbb1446827169026a49b8"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "228619884a7c401c5fcb3a606abb8c3c668eb9fdaac01eafa02ac3cbefe5ceb9"
 metafile = true
 
 [[files]]
@@ -226,11 +196,6 @@ hash = "b0628ad24e9ea2d25a09b4f7be86d59a2c08e3c6ea22e6eb165bd5820e3a2401"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "5a8266ecf742e57419d77b2ab0a55697243a7f6ea68bf61f3ec1b0e059dec7ed"
-metafile = true
-
-[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "8271f3d4fbc017aa6aa1a94f22de94ea61cb09afcf1e8e0e368b98092e6d0cd7"
 metafile = true
@@ -238,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "d07dcf38f97eb948b4efa5a640a11712730f9ef25874f5f71293ebd579a55a62"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4013d9132d6b59313da6e42b9becd13af41827c739fcf674c231090dcedbb55c"
 metafile = true
 
 [[files]]
@@ -298,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/tt20.pw.toml"
 hash = "9c5c2ba6a1884331927e7e1330ec935795d53ee3ac7785d2221b8d293530299a"
+metafile = true
+
+[[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "0ae334fc3558dc56dc3ce030c76e637b9f0d6dc2580c46d40fb48267bd4471bd"
 metafile = true
 
 [[files]]
