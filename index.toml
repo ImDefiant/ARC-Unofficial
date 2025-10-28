@@ -196,6 +196,11 @@ hash = "ae846ab77fa3ac719c2da5b4adb1b324c21d43e3790e03c895ad4c646830816f"
 metafile = true
 
 [[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "b288b23c6932f66cc60420bc30276bd7bd315e1bf85f7e87ef1d1657d6ccef74"
+metafile = true
+
+[[files]]
 file = "mods/ore-harvester.pw.toml"
 hash = "b0628ad24e9ea2d25a09b4f7be86d59a2c08e3c6ea22e6eb165bd5820e3a2401"
 metafile = true
