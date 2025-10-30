@@ -1,0 +1,13 @@
+name = "Expanded Mace Enchanting"
+filename = "expanded-mace-enchanting-1.0.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/RJgQJsbo/versions/bRtGWvSG/expanded-mace-enchanting-1.0.8.jar"
+hash-format = "sha1"
+hash = "b853752e378a54484124508754a87960c5dc7abe"
+
+[update]
+[update.modrinth]
+mod-id = "RJgQJsbo"
+version = "bRtGWvSG"
