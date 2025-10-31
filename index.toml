@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3108574f4a4cfc77239042768d1e4b78a87de85cb338b87cf9ae107a4843577e"
+hash = "5285170b07a6e0cf463440673e338e021753ff2422d22c7437568bea3611625c"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "61c559a38e176d46e5a29eb9bf05fc0c01c6beb43b58bee4f06d12d1fd5621d2"
+hash = "8a26958e177fc56ffb479bbee5e55be4a009ab74c1e58150c51bf4df0cdbf136"
 metafile = true
 
 [[files]]
