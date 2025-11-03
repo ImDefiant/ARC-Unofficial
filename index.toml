@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5285170b07a6e0cf463440673e338e021753ff2422d22c7437568bea3611625c"
+hash = "a35f649e0dca7ffaaa58146f3feb0c1708c49d5fee6609e54065f11ec91254ca"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d09dbae85ab6873db34fdce389beeb551704feb8c379bf183a71e6fa423d3198"
+hash = "beeb2760abfb643faf97a18d28ce1adb75174889f8c90804ad32062ac4b9708e"
 metafile = true
 
 [[files]]
@@ -122,12 +122,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "f1da925ae791df99a453d1e135cb3c7a390c861a6ae9db299e19ffc83dfed680"
+hash = "4eb0060a2288f8f0f97e87eec65493e3e21f1f81ce6a6343e54ed296aadee957"
 metafile = true
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "d962af812a7b0e7ccb6239c0caf55f907576f9c762ac00de58ebfd4784f812d7"
+hash = "10d0a82638bf0b007845a92f58a1ffb81c4fafe71e8e836d5338961198d64b2e"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "28ad738459d7c02ae5f79f0274af474050c3189bd9e83d0a1f14f5bb1c0fd6a5"
+hash = "13d45effcc284fd0593bf78ea79f00c57638c989ef378288f990229e659bce87"
 metafile = true
 
 [[files]]
