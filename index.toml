@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a35f649e0dca7ffaaa58146f3feb0c1708c49d5fee6609e54065f11ec91254ca"
+hash = "52ee62dcb6c4caa50f76b4072d5a169cc38712416fcc3ca067fd1dbf8e86b917"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "beeb2760abfb643faf97a18d28ce1adb75174889f8c90804ad32062ac4b9708e"
+hash = "7e20712c4e42e5839f37ecd7796502bcc2a195f44696cffb064f8a1d15edd0b1"
 metafile = true
 
 [[files]]
@@ -148,11 +148,6 @@ metafile = true
 [[files]]
 file = "mods/geyser.pw.toml"
 hash = "13d45effcc284fd0593bf78ea79f00c57638c989ef378288f990229e659bce87"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "a66e2bd6deccaab80afcfebec417d29fd19597c6231eb475112717848a5a6f94"
 metafile = true
 
 [[files]]
