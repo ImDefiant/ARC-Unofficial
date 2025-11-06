@@ -261,11 +261,6 @@ hash = "21cd5201f371ec356c637f9dc248445f0e183d5b11ac307ea041c11d0104c58b"
 metafile = true
 
 [[files]]
-file = "mods/too-cheap.pw.toml"
-hash = "6b6115895fe0ebbd9183941f3be07aed35867b4cfdc0d351dbfb59ec170785d7"
-metafile = true
-
-[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "c545f2d9b2cca20ead494fa706f32e6c0d610f1692b1d3269d574a838ab4e577"
 metafile = true
@@ -273,11 +268,6 @@ metafile = true
 [[files]]
 file = "mods/tt20.pw.toml"
 hash = "9c5c2ba6a1884331927e7e1330ec935795d53ee3ac7785d2221b8d293530299a"
-metafile = true
-
-[[files]]
-file = "mods/universal-enchants.pw.toml"
-hash = "0ae334fc3558dc56dc3ce030c76e637b9f0d6dc2580c46d40fb48267bd4471bd"
 metafile = true
 
 [[files]]
