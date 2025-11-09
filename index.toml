@@ -266,11 +266,6 @@ hash = "9c5c2ba6a1884331927e7e1330ec935795d53ee3ac7785d2221b8d293530299a"
 metafile = true
 
 [[files]]
-file = "mods/universal-enchants.pw.toml"
-hash = "0ae334fc3558dc56dc3ce030c76e637b9f0d6dc2580c46d40fb48267bd4471bd"
-metafile = true
-
-[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "f9bbb787554239a92b6b15c028f3da00e5b048bdd0419ddda90cd2194ecb3069"
 metafile = true
