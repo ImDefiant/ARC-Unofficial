@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "52ee62dcb6c4caa50f76b4072d5a169cc38712416fcc3ca067fd1dbf8e86b917"
+hash = "94ff21a3cb20199350280ab4a1c1373a85fc641d87d0b7cb41a5b3af3d09e1b9"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "264931944eef542b38ecdda8be978fbd03bf13ad961a6bcf3f1a98e15d32d5ae"
+hash = "5d387587c045b044f891818098cf9322ec000c7cadd707bd9d3aa831e1cf5790"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7e20712c4e42e5839f37ecd7796502bcc2a195f44696cffb064f8a1d15edd0b1"
+hash = "fa8be992c1e3efbd030ef6a84409b766a936deb3fc3d06b657f8e468745044f0"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "8b960b367aafa5d5f675e580d54d002b948c0d68c7e9988975b3e8f56e804925"
+hash = "d8e5c1617c48ba88b61156508ceb4821032a5be3ed9bacd5e1720fec0f050702"
 metafile = true
 
 [[files]]
@@ -203,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "619b9c6bcaddcd4fe602a5f11614b53290c5217694b6dd3255217f62695d3d91"
-metafile = true
-
-[[files]]
-file = "mods/servercore.pw.toml"
-hash = "a93862dc31f56fae1ba90acda3d4b6b6afbab76720ade5b21f6026316d2f5625"
 metafile = true
 
 [[files]]
