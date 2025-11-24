@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "0b1a599e3838cf041b598bd3aa456ff6cd24b1883dfb4c5899d25a9768afb0cf"
+hash = "022682338a49c1ed7ad5ea5b144020c18aae0fdb0dbcea452c70808bbd682179"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "5d387587c045b044f891818098cf9322ec000c7cadd707bd9d3aa831e1cf5790"
+hash = "c9ded64ac176018e78ac0340685b8607a4f01354e6090cddc8cfce7a73cbb90c"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "d8e5c1617c48ba88b61156508ceb4821032a5be3ed9bacd5e1720fec0f050702"
+hash = "b80095c95a3730af1ef77926cfbcdc9c85f7e6ad098a0bfeb95e4093c12cffa8"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "5cad7f0ea3144019f6fb6dddfba5f7f78cdb1a6ce620151e581176acd197bcaf"
+hash = "5787b1deb7975af608901df0bf16b1e5de2452c98808f6a205c35aaa83e9f56a"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "bd66790187015d9984fda33bb7bb5c47863474e71e6839b0e2ae5eb6931db404"
+hash = "1dde61332fc0dc654445b99f107c76bf61df2f398b1b5822d18b768e7becf5b6"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "8bc80ba305ced3cfc65dd3654ecd1986ab141a7b0489167acea28483745990f7"
+hash = "bdb85673809c4d107cc01fb4810fea96b097a28d48b58e1e8c4b4c7034a8a91f"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "8a26958e177fc56ffb479bbee5e55be4a009ab74c1e58150c51bf4df0cdbf136"
+hash = "73bd3e12b7f552db549143950fdd4df8c8429d9c1f65be9e21d9d1128f10e81b"
 metafile = true
 
 [[files]]
