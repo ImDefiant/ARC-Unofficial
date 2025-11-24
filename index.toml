@@ -171,6 +171,11 @@ hash = "1e2f0297dad9a97b3adeff61b862d148d8cb03875736feace77d8e4d90b35e6a"
 metafile = true
 
 [[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "9f9293ef5d8faf2abdd6e188b25ccb4287f2ceeb67fbc6403dbdbcdd5dba4dcd"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "bc59e692422d05a1cb4c6712c1ad1777bec427d458aa8ee73172631e021bacfb"
 metafile = true
