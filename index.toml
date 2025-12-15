@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "c20af7e6a8136f3d4b81e20f512150415fec95446899ac67d72ef47a59011ed6"
+hash = "270a4fc9cbfc34885e7ecda4b2547853acdb6dd3b95a614e1c34b3b5320c2743"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "6e204c1373ddd8622b4f8ba2d7f94fb987e11dfff217560a706ca118f1beb55d"
+hash = "07bcc3531e2629b2d4760685e1a87dc66172001f27d7899a3e10dc5ae31b49ba"
 metafile = true
 
 [[files]]
