@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "cfe2373a438fb2256004f5da5b35751b3d19f7516f525e2494af68cbd07fa284"
+hash = "f99e48684a33c0282a890c63b56e0ba17d374bb72f65bd17d36e597c0efd928d"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "be43c57bfbee5b9c2befe5fc21b364accd816902211dbaae2c4c01ee36376af4"
+hash = "e2a0b29673d3a5abac04b62156352a337b088402b0dc216550bc8af6d16a683a"
 metafile = true
 
 [[files]]
@@ -297,5 +297,5 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "def8e32b7170a037d164462793a80680c59ef292d073a4e3a51a645da1004044"
+hash = "a0beeeba48f3b8cd624a1929bac6b6ecbe190318c4d848563b2982bda10953de"
 metafile = true
