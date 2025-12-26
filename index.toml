@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "fb9875e2b7dc4e262ecdeb9ce59da39d260424f2bca819eb33fd727ddb988358"
+hash = "1f4c45f0f064a8e42e59826043dbd36fbdafd3d7ec5ae8fd15c1d67a99f7e4b6"
 metafile = true
 
 [[files]]
@@ -227,12 +227,12 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "b87bc045dc42bb523c09b330f65b47f401b5c80894dfa6e95cf06baf21b2060e"
+hash = "36a73cc66849c1eb865377befed5dcaec1d9bd87a5292c09ae96f4f90cd1ed4b"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "be22b82e1acf08ef74267059a921faa9b2fafd2458225228cf43b34f943c395d"
+hash = "471f3dd97818177427fb8b4346adab69b23a00bc2906966a753bf8d290c2b7de"
 metafile = true
 
 [[files]]
