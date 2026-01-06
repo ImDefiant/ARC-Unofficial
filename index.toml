@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "03d16a42dd5672320ec4c282fe2e5a695eb4a597125b8df90e59f0aa0d89de1b"
+hash = "af37d3b4fb041f595eedc38944736c2e6137a9f73b9784194e1df5f8b009625d"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "022682338a49c1ed7ad5ea5b144020c18aae0fdb0dbcea452c70808bbd682179"
+hash = "494247a0ca3495af93a5d77868a8e4a60d953737a3c39c97da79b81c58629ff6"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3f5eab6c74f8a622faccb7be82d522ed4db2c0e45166182d76fcfe1425ea5783"
+hash = "5cbf83104c6353ae45297f90a0ea6eecac70a4ab3ef1c2722fb04a8e636aea1d"
 metafile = true
 
 [[files]]
@@ -287,5 +287,5 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "a0beeeba48f3b8cd624a1929bac6b6ecbe190318c4d848563b2982bda10953de"
+hash = "ebf8cdc245c1bf084440cc5768654987eedbb851a2af587f62542e161f80d602"
 metafile = true
