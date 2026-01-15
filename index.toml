@@ -21,6 +21,11 @@ hash = "461c3abf9f0a3932cca35f658f06176aa5e41cf7e27116295be361a91592e1e1"
 metafile = true
 
 [[files]]
+file = "mods/bluemap-player-visibility.pw.toml"
+hash = "d81a6454c3bd73ec9b8354a60aaec9a205251bc6ed4428f932736379bb1067cf"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "1aea3582fca46964d38d5746c4c6953a4235ac5aecd73321f63d1fadad38da63"
 metafile = true
@@ -132,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "98cf4572b1cc435505e316b5272f0682da06f99f6cf6389d2b08a922098020ee"
+hash = "e5075eef680eff92ec45e6bbb918d8e75cf4b93553591fff843119f9d37e91fb"
 metafile = true
 
 [[files]]
@@ -202,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "e1fc9f4f34557a5bb2ea5013dcd2c162e3b4ae4b20a9948ea79ba1de5e24e7e2"
+hash = "7d147ab42d914c7ee20444cad2b1520b3edc50a9d80a5803c07ce13a810f9ce6"
 metafile = true
 
 [[files]]
@@ -277,5 +282,5 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "ebf8cdc245c1bf084440cc5768654987eedbb851a2af587f62542e161f80d602"
+hash = "fb67d87806f9113a85eab564dfb5bb59297db4f4e26cfac574317c8e2c29afc9"
 metafile = true
