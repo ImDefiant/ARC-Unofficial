@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/async.pw.toml"
-hash = "bbfcf4aa5a3887dca532da7ea1469c994f01ee0685afcf46961a582aed4f4e6d"
-metafile = true
-
-[[files]]
 file = "mods/better-beacon-placement.pw.toml"
 hash = "5d223e192142234d38f02eef2c84a77cc0ab5948420320f37095fd730fc042e4"
 metafile = true
@@ -28,11 +23,6 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "1aea3582fca46964d38d5746c4c6953a4235ac5aecd73321f63d1fadad38da63"
-metafile = true
-
-[[files]]
-file = "mods/bluemapvisabilitytoggle.pw.toml"
-hash = "2ec72749073876ea2806708a3516d3461f72a501234e0e3287a3d7952a1c1695"
 metafile = true
 
 [[files]]
