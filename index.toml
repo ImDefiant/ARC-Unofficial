@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "e5075eef680eff92ec45e6bbb918d8e75cf4b93553591fff843119f9d37e91fb"
+hash = "5a683d0f1195d6d737b2750f04bbd3ab359f798215cfdcc3e29d8345ee91c65e"
 metafile = true
 
 [[files]]
@@ -251,6 +251,11 @@ hash = "aa1242f91a1c16bb362a4decb6f127295bf2de133ebb34da1765192280c6d94d"
 metafile = true
 
 [[files]]
+file = "mods/tt20.pw.toml"
+hash = "cedc86631e22fd1c63bd0892e08e542aec61dc98137832161c51f7cbd9be3ed4"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "77742d93823791eb8a30e389bc6ecfb04bd5206491006fa0b9bdf409c09e16d6"
 metafile = true
@@ -262,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "0dab920ec1f10d3feb95a9e952b61e2c64fc2bf6d4d2de49bef747a4283f718a"
+hash = "2d540a1a92a45646c724ad00574e847dafef7f76bd02d2721dbcfc0c199f32ca"
 metafile = true
 
 [[files]]
@@ -282,5 +287,5 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "fb67d87806f9113a85eab564dfb5bb59297db4f4e26cfac574317c8e2c29afc9"
+hash = "4c6bae43c926cc595073b266c7558d0a20ef4e81ae8f5eda333ad368da73d977"
 metafile = true
