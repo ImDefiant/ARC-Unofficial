@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "d7d855d0bb4816a3d38f402cedf9fb2412426930567863d80f169ddc54a7c657"
+hash = "c383388ab503ae70e3367087c8c29efc82585c91eb4487826f26ec911f4c5a9d"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "6e085c367df406004299f214fc93d9a0f78963c106c379b00afbb34d583d6c8c"
+hash = "f5fde55e82561f1836e8963d74405d596895b211a892b51e48d14f8be72cbbca"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2a28528303ba297add7d89da6cc3c8ad946a4c4c87b21bf16364bffaffc7fdaa"
+hash = "3468a3f21bd1010adee3bf0e5719da1776ee4509420b18e57243ad361b10387f"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "4385a242de62d01f91894aa2b011bb53cfdcfbdd4d950def81ec78aba7be66a3"
+hash = "85ad2490c50f56b0d942f28e71847e89145f8935df2d2a0c2313ef2b954240c5"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "e0141dda314787e9833d3057fb9a4d0b39d3c096b5bc449a55f0cfccbfef4349"
+hash = "3856689db5a919f01097cbc4a9a67db3e3bb120347244c592be17da6177f3649"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisiumforked.pw.toml"
-hash = "6191b4436a910fa2f956343689f7c29567eea2742af0810a029333b47ec29942"
+hash = "d989820fbdba2240057c3a110f6623c12798e3e2c865379a4a0534323b85795f"
 metafile = true
 
 [[files]]
@@ -192,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "50dde7b12b704f809ca2110d1f482066cf0dafd73356d06f610b140f37dfd064"
+hash = "0918e232463206842d22be9f427d2a840b9f04f7f8d1ba214231dd797b380a98"
 metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "619b9c6bcaddcd4fe602a5f11614b53290c5217694b6dd3255217f62695d3d91"
+hash = "f19a5337eb3ac05bef5a98d4f930e89b7f760eab135a70d2df116d0e10f064ad"
 metafile = true
 
 [[files]]
@@ -257,17 +257,17 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "77742d93823791eb8a30e389bc6ecfb04bd5206491006fa0b9bdf409c09e16d6"
+hash = "1a590d2385a6f1d6cdc1487281589e901625db043cdc902c6db1457d27389404"
 metafile = true
 
 [[files]]
 file = "mods/view-distance-fix.pw.toml"
-hash = "551a40e2b713b8a1ab70d7c08c3861e1c2cb186c3f6bd22087a207bf53bbb7e6"
+hash = "84cdf437484be8499b545efbba15624e92d8da41f662fcd254a2445eed0a8ef2"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7a97a87890730efb0babda480f40eafc8490b12805c171130d565c9922b46b72"
+hash = "d957b561d45987ece48538a8078fc73c3dc569652ebd8c016ef88d8305802a5f"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "View Distance Fix"
-filename = "viewdistancefix-fabric-1.21.11-1.0.2.jar"
+filename = "viewdistancefix-fabric-1.0.2+26.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/nxrXbh5K/versions/13lPLnFp/viewdistancefix-fabric-1.21.11-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/nxrXbh5K/versions/3QmED644/viewdistancefix-fabric-1.0.2%2B26.1.jar"
 hash-format = "sha1"
-hash = "48c2ac8a0e73265bc9d83c18056ad87f1ba217c2"
+hash = "c122b1707860b12e03bcd09138f66e55ad663cb7"
 
 [update]
 [update.modrinth]
 mod-id = "nxrXbh5K"
-version = "13lPLnFp"
+version = "3QmED644"
