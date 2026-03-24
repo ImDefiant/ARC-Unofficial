@@ -21,6 +21,16 @@ hash = "461c3abf9f0a3932cca35f658f06176aa5e41cf7e27116295be361a91592e1e1"
 metafile = true
 
 [[files]]
+file = "mods/bluemap-player-visibility.pw.toml"
+hash = "d81a6454c3bd73ec9b8354a60aaec9a205251bc6ed4428f932736379bb1067cf"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "d7d855d0bb4816a3d38f402cedf9fb2412426930567863d80f169ddc54a7c657"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "6e085c367df406004299f214fc93d9a0f78963c106c379b00afbb34d583d6c8c"
 metafile = true
