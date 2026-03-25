@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "b78d967639e2a111321692ed27de64f73dbf34509fd7cc7381e1b2d440570a03"
+hash = "bdf2ca3685c3a471bf4897ea514d1e2ec736c81f5b836a914a4100ff1a18e00b"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3468a3f21bd1010adee3bf0e5719da1776ee4509420b18e57243ad361b10387f"
+hash = "c49ddc997309468738bb76473c3a93ae1c9a2d118cb57513dc35df1016e5140e"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "34f69fcc3b2fb7007a4672ee278d5b8f6e804da900e07d3b589757962348eb70"
+hash = "669a5dd05db0596dc19b3563d939fa6dbaa041a7d6e46cc8fc3647ffc7d49035"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "28c3d084d26b0bc5d7750b0c14299973b3f18d3f72a5cb2a7c4cb31a416f88eb"
+hash = "5ef2022456ace8c6d022220a1d4b2b389c87d6f06d5cf1b136d175a51a885829"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "aa1242f91a1c16bb362a4decb6f127295bf2de133ebb34da1765192280c6d94d"
+hash = "8633e9ba928336674a6f9e05d1161b9e4f6d0308ee439d1e8505f13879cd6df9"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/wits.pw.toml"
-hash = "9d411893f380b76479ecbd33eb9321737d82b8dd96283bba3de28f3f9f5597a2"
+hash = "4a90aae2225f866b0489c787452ddfd2dba3f4760511f78dffbdef74ed027c15"
 metafile = true
 
 [[files]]
