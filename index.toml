@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/ore-harvester.pw.toml"
-hash = "48f103be7ec99b3fd9328f2e0b8443b8277101cb89b13f708d992dc3532e8810"
+hash = "0253351cf28f56144189b018aae7ff2a374d1e01b5c3a9c0440c519191e0740a"
 metafile = true
 
 [[files]]
