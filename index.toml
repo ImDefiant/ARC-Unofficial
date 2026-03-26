@@ -46,11 +46,6 @@ hash = "869f8705c95fc50d5f5fc08c295e4dadbf5feb8f8f01ba9cf0d129f9e92ef2f6"
 metafile = true
 
 [[files]]
-file = "mods/chunky-player-pause.pw.toml"
-hash = "36f19df1c093e366eb4ab1aebe5f0c71acb58e8ff4e9a8036f6c0aa7a72e47e0"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "125d5f809e1fa06715bbb585463dd845cb256c69c901655a2e9f80dae99348e2"
 metafile = true
