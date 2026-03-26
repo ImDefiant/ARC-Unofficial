@@ -191,11 +191,6 @@ hash = "e4b447ad000de1ad4ec037d59bd582fd56dd329464a50ed553bd7651880a65b9"
 metafile = true
 
 [[files]]
-file = "mods/stackdeobf.pw.toml"
-hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
-metafile = true
-
-[[files]]
 file = "mods/structory-towers.pw.toml"
 hash = "36a73cc66849c1eb865377befed5dcaec1d9bd87a5292c09ae96f4f90cd1ed4b"
 metafile = true
