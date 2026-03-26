@@ -146,16 +146,6 @@ hash = "4b8f60035bbc046b7ea9ea64c667430fa07e94b885a547dc0405f9b54ead31c1"
 metafile = true
 
 [[files]]
-file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "4881e1002094ef85e0634cca5abf5e0025de5277efcfc82e9753ba1f3defa9f6"
-metafile = true
-
-[[files]]
-file = "mods/moogs-structure-lib.pw.toml"
-hash = "c37d131c6416ddec09d9631a955787e39f9c5292900ee2d4a4e0ada8bce379ff"
-metafile = true
-
-[[files]]
 file = "mods/neruina.pw.toml"
 hash = "c68f5d266376e63a13429b21a343eab420ef69864ff5b19a227c9de01e3b9817"
 metafile = true
