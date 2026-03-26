@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "6b408e7b83e9b769fcafe9216c6f6a528d8930c6d34f7984a9e42119b5ac7d44"
+hash = "e956c20eaa7df8b5604bfb443f9c3ccecf7eed06f9fcf750ca7eb92ddd674226"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "d610b134091e600f2b03ef2969285cfd195783481974b2af76fe4bd71f055980"
+hash = "2a2e0cf14fb9c368e028850ed1dd9a5ac2e0ac0ab7e8673e8c63632bfe3067fa"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9a4e05fe946f6659c66990733cda91e7a483f7dc514cf609686a37d2d4ea5213"
+hash = "bc2c25da0bc489b6351c0b6eadf1f74ea474e29eafc3111ab25b508c7f37eef4"
 metafile = true
 
 [[files]]
@@ -146,6 +146,11 @@ hash = "4b8f60035bbc046b7ea9ea64c667430fa07e94b885a547dc0405f9b54ead31c1"
 metafile = true
 
 [[files]]
+file = "mods/mastercutter.pw.toml"
+hash = "50974d70699c81ffc7730c356f4b1317e1ef60b8dc176ac2dfdf3aef4e659643"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "c68f5d266376e63a13429b21a343eab420ef69864ff5b19a227c9de01e3b9817"
 metafile = true
@@ -172,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "0918e232463206842d22be9f427d2a840b9f04f7f8d1ba214231dd797b380a98"
+hash = "7edae2db7bb1e4bb5055a7e96d7b8f452f1d998a62a766067664bc5d64bc3917"
 metafile = true
 
 [[files]]
@@ -242,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "d957b561d45987ece48538a8078fc73c3dc569652ebd8c016ef88d8305802a5f"
+hash = "c89d276d52870713c2bb8282b219d8a3e68a49327687bbbde8a2ab5372a8a25c"
 metafile = true
 
 [[files]]
