@@ -71,11 +71,6 @@ hash = "0f3ffd57a60c436b364fa7d68cd705b2083e3049d08a0b420e557688de6aeb91"
 metafile = true
 
 [[files]]
-file = "mods/death-counter.pw.toml"
-hash = "58783b0cb609d8bd5abf0d1b702908e0e1216ccbcfd1af0de6c54347458a3fdf"
-metafile = true
-
-[[files]]
 file = "mods/dragon-drops-elytra.pw.toml"
 hash = "57ccab5862c9903f598c19d4ef07a64042fc07ccd9520de6277991e8d2dc9cba"
 metafile = true
