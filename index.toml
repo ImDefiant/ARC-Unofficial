@@ -2,17 +2,17 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/better-beacon-placement.pw.toml"
-hash = "5d223e192142234d38f02eef2c84a77cc0ab5948420320f37095fd730fc042e4"
+hash = "04ba66752c15ad4e26749d112b789f51c37309026cfda97543aa086c3ecce681"
 metafile = true
 
 [[files]]
 file = "mods/better-conduit-placement.pw.toml"
-hash = "15df5259e76d9273607d547736cff66ae9dd0bf12e8f1a5b4749aebff727de31"
+hash = "9f7b71af953a8c22ae6917b1b56500f3ef55d778376a3693b7a8219c9684a9c4"
 metafile = true
 
 [[files]]
 file = "mods/better-spawner-control.pw.toml"
-hash = "c16228582cf4653b52973fabc8375cf995094e6b2e5b1883ce2d9acd7a3e58fb"
+hash = "dc358498d5ae9bae352361b1816fc744c53b1a30b7bc8a556abef8b4d6ea665d"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "c383388ab503ae70e3367087c8c29efc82585c91eb4487826f26ec911f4c5a9d"
+hash = "3a3148b3c3c965a5f9de3dd32d57724b117dc336c201b9553fb28a59f76018d4"
 metafile = true
 
 [[files]]
@@ -62,12 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "bdf2ca3685c3a471bf4897ea514d1e2ec736c81f5b836a914a4100ff1a18e00b"
+hash = "528b75fa12c593d75be4858e2982c249d26b6a9066d7342f2fb2fcecfd5882b4"
 metafile = true
 
 [[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
-hash = "3ab8db8add6b106735f131dc8da1497b8e88b79d2694a3b75eda67ba17b32b97"
+hash = "5b1709f1126d6c7c3e7ac1985dabf0d32e25b1ea7e1d17532b91d5713f669d82"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragon-drops-elytra.pw.toml"
-hash = "40349027e36cd727f3ded0c7e65cfb9fce858c1d86626f32abdaf301f4e7ca23"
+hash = "57ccab5862c9903f598c19d4ef07a64042fc07ccd9520de6277991e8d2dc9cba"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c49ddc997309468738bb76473c3a93ae1c9a2d118cb57513dc35df1016e5140e"
+hash = "021286ee750a1eb6261947f109054412f57fae20b5f42b50e255dca572db6822"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/followers-teleport-too.pw.toml"
-hash = "1f6197f171ef27ddc8f3d843e97e8fd7f72431edd0db2d67794fc93c9b6efe4c"
+hash = "2fb24516ccce288011ee9caf0917c7822bb6c258d4528d1bef461e6c543fd4e7"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
-hash = "4378c26b6eed5e227d82cac44f1dbf9df2520e307d561f4765de0244d132be6b"
+hash = "d658e079e523da39e063d7583b4968066c8d3db9b1451a6555d027f4dd776292"
 metafile = true
 
 [[files]]
