@@ -156,11 +156,6 @@ hash = "d658e079e523da39e063d7583b4968066c8d3db9b1451a6555d027f4dd776292"
 metafile = true
 
 [[files]]
-file = "mods/nofun-dnt.pw.toml"
-hash = "ae846ab77fa3ac719c2da5b4adb1b324c21d43e3790e03c895ad4c646830816f"
-metafile = true
-
-[[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "d989820fbdba2240057c3a110f6623c12798e3e2c865379a4a0534323b85795f"
 metafile = true
