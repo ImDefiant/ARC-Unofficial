@@ -16,11 +16,6 @@ hash = "dc358498d5ae9bae352361b1816fc744c53b1a30b7bc8a556abef8b4d6ea665d"
 metafile = true
 
 [[files]]
-file = "mods/blasting-plus.pw.toml"
-hash = "461c3abf9f0a3932cca35f658f06176aa5e41cf7e27116295be361a91592e1e1"
-metafile = true
-
-[[files]]
 file = "mods/bluemap-player-visibility.pw.toml"
 hash = "d81a6454c3bd73ec9b8354a60aaec9a205251bc6ed4428f932736379bb1067cf"
 metafile = true
@@ -132,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "669a5dd05db0596dc19b3563d939fa6dbaa041a7d6e46cc8fc3647ffc7d49035"
+hash = "ed743c82950efeefe0d31d2df40c7a028719cc021761b5e4cdc3335442ef54d5"
 metafile = true
 
 [[files]]
@@ -142,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "4b8f60035bbc046b7ea9ea64c667430fa07e94b885a547dc0405f9b54ead31c1"
+hash = "ab0b87f935828d0c52ebe7904c28eadb5b860171d41d8f76184308a17bb0774b"
 metafile = true
 
 [[files]]
