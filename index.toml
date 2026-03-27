@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f5fde55e82561f1836e8963d74405d596895b211a892b51e48d14f8be72cbbca"
+hash = "86063fd3031898687a05ec5ee87832af81815b8c11a3eda465658d0e49a5f577"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "a069357919662791447f68fd507fb143604b95c09e92c98fed742275bc8e3946"
+hash = "24c01a1020a78923cd73ff570bed589fb78ac6ef2fc0f813ea3c98961cb1481c"
 metafile = true
 
 [[files]]
