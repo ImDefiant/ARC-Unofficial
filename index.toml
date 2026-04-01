@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "125d5f809e1fa06715bbb585463dd845cb256c69c901655a2e9f80dae99348e2"
+hash = "f1f41acef991941ae0c7a84831570253e51c7f6dfd4f321822642a002ae95172"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "021286ee750a1eb6261947f109054412f57fae20b5f42b50e255dca572db6822"
+hash = "892441582ce90f6284a7d5d823ac6e2840626aba75771a808bbbbe161b527fa7"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "3856689db5a919f01097cbc4a9a67db3e3bb120347244c592be17da6177f3649"
+hash = "5fb13beb7e3a74fca6fbbae027b623bc7dd98189143afdf3afedd51d140e4614"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "7edae2db7bb1e4bb5055a7e96d7b8f452f1d998a62a766067664bc5d64bc3917"
+hash = "60603b41049071918ffca3c28ee021c594bce448c692c6db4513ed870f11a91f"
 metafile = true
 
 [[files]]
@@ -182,17 +182,17 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "e4b447ad000de1ad4ec037d59bd582fd56dd329464a50ed553bd7651880a65b9"
+hash = "fd9fb52114962e2943ff8b91cf4bd8920dd02b1ac0ee2e547458d48342575d81"
 metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "36a73cc66849c1eb865377befed5dcaec1d9bd87a5292c09ae96f4f90cd1ed4b"
+hash = "d9b644718925e15c4a9147678f70cc763860ec793d55c0c57f988d6d7767de4e"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "471f3dd97818177427fb8b4346adab69b23a00bc2906966a753bf8d290c2b7de"
+hash = "77eaff7cbc79ebcd9bbb3ca79611a2bc5f01458df09a39387c54a1c2a58455f1"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "24c01a1020a78923cd73ff570bed589fb78ac6ef2fc0f813ea3c98961cb1481c"
+hash = "679c3fec5bce7159c835476424772b3fbef310a5f8dc9187e63589c22281f05e"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/view-distance-fix.pw.toml"
-hash = "84cdf437484be8499b545efbba15624e92d8da41f662fcd254a2445eed0a8ef2"
+hash = "5ee9c9edb3f521015d27a5fdb05aec3c2715c12e1f0cd442c48dd407e11923c3"
 metafile = true
 
 [[files]]

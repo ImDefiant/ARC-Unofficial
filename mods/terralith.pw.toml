@@ -1,13 +1,13 @@
 name = "Terralith"
-filename = "Terralith_26.1_v2.6.1_Fabric.jar"
+filename = "Terralith_26.1_v2.6.2_Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/aYFEo9A5/Terralith_26.1_v2.6.1_Fabric.jar"
+url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/FCzSjHeG/Terralith_26.1_v2.6.2_Fabric.jar"
 hash-format = "sha1"
-hash = "4896cb5167731f4212dd81ea10582c3ebb925c5a"
+hash = "9f4a9a8de5c97718c276e16a698e423b48ef0762"
 
 [update]
 [update.modrinth]
 mod-id = "8oi3bsk5"
-version = "aYFEo9A5"
+version = "FCzSjHeG"
