@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "892441582ce90f6284a7d5d823ac6e2840626aba75771a808bbbbe161b527fa7"
+hash = "f17a5998b7b5983dd120ffb11932f455a24fcee0732c9de8163ef01a378acc44"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "60603b41049071918ffca3c28ee021c594bce448c692c6db4513ed870f11a91f"
+hash = "c1995b8e0f119457ca06b2bfa3de4dddea471eb13a2846734f3e56ae0c544909"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "5ef2022456ace8c6d022220a1d4b2b389c87d6f06d5cf1b136d175a51a885829"
+hash = "f06d0d1733820fc8474cfa9877ea12ccbcdecfda9baabea1ec3c2e5aaf183818"
 metafile = true
 
 [[files]]

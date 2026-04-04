@@ -1,13 +1,13 @@
 name = "Servux"
-filename = "servux-fabric-26.1-0.10.0.jar"
+filename = "servux-fabric-26.1.1-0.10.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/zQhsx8KF/versions/w7Ztj8xb/servux-fabric-26.1-0.10.0.jar"
+url = "https://cdn.modrinth.com/data/zQhsx8KF/versions/Cl7OXSCU/servux-fabric-26.1.1-0.10.1.jar"
 hash-format = "sha1"
-hash = "b28aa9f2fea73cd9073551a1189672820eeec332"
+hash = "586f5ab026ffed195a709edcded4d2c2609726ee"
 
 [update]
 [update.modrinth]
 mod-id = "zQhsx8KF"
-version = "w7Ztj8xb"
+version = "Cl7OXSCU"
