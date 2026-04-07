@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adventure-platform-mod.pw.toml"
+hash = "a958296dde47e494b74e8b8081b93dbe0b347dd25151c12d18aa8c345cbe97c5"
+metafile = true
+
+[[files]]
+file = "mods/async.pw.toml"
+hash = "e75c5f9e0513e3e29fa6a3e235358c4a3f41ffc9ddca9d8dba813bc60776bfd5"
+metafile = true
+
+[[files]]
+file = "mods/auto-chunky.pw.toml"
+hash = "e59dbb1ce73921c4b5750cc5c2cdbe07895a8724cf8b29d92df24bc8254e1570"
+metafile = true
+
+[[files]]
 file = "mods/better-beacon-placement.pw.toml"
 hash = "5d223e192142234d38f02eef2c84a77cc0ab5948420320f37095fd730fc042e4"
 metafile = true
@@ -8,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/better-conduit-placement.pw.toml"
 hash = "15df5259e76d9273607d547736cff66ae9dd0bf12e8f1a5b4749aebff727de31"
+metafile = true
+
+[[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "15e9e71b635d933bc3659c9d3d07edeaef44c49cf5c4a7ded44c0d4815a49ae0"
 metafile = true
 
 [[files]]
@@ -63,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/configurable.pw.toml"
 hash = "0f3ffd57a60c436b364fa7d68cd705b2083e3049d08a0b420e557688de6aeb91"
+metafile = true
+
+[[files]]
+file = "mods/death-counter.pw.toml"
+hash = "58783b0cb609d8bd5abf0d1b702908e0e1216ccbcfd1af0de6c54347458a3fdf"
 metafile = true
 
 [[files]]
@@ -183,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "e4b447ad000de1ad4ec037d59bd582fd56dd329464a50ed553bd7651880a65b9"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
 
 [[files]]

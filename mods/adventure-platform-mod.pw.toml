@@ -1,0 +1,13 @@
+name = "adventure-platform-mod"
+filename = "adventure-platform-fabric-6.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O5VsIpQY/versions/kuv2yi7X/adventure-platform-fabric-6.8.0.jar"
+hash-format = "sha1"
+hash = "4ac3fd68dcbda1edd607e8ccb6159156eadb21b7"
+
+[update]
+[update.modrinth]
+mod-id = "O5VsIpQY"
+version = "kuv2yi7X"
