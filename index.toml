@@ -11,11 +11,6 @@ hash = "e75c5f9e0513e3e29fa6a3e235358c4a3f41ffc9ddca9d8dba813bc60776bfd5"
 metafile = true
 
 [[files]]
-file = "mods/auto-chunky.pw.toml"
-hash = "e59dbb1ce73921c4b5750cc5c2cdbe07895a8724cf8b29d92df24bc8254e1570"
-metafile = true
-
-[[files]]
 file = "mods/better-beacon-placement.pw.toml"
 hash = "5d223e192142234d38f02eef2c84a77cc0ab5948420320f37095fd730fc042e4"
 metafile = true
