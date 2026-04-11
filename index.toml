@@ -271,6 +271,11 @@ hash = "551a40e2b713b8a1ab70d7c08c3861e1c2cb186c3f6bd22087a207bf53bbb7e6"
 metafile = true
 
 [[files]]
+file = "mods/villager-pickup.pw.toml"
+hash = "cd81f9c0820b2880373ffa1f3cfec58408d765b34a60ea2018f0e9009539a83b"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "7a97a87890730efb0babda480f40eafc8490b12805c171130d565c9922b46b72"
 metafile = true
