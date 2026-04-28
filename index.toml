@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c2c04374012d0f3f6c351e8b391b60087e07fbb6e42d4cc5c9f50623955e93ef"
+hash = "e40d783aaa94847369d4ccaeb06101bb52601fa07e380d635c2877a3516f8834"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
-hash = "0f3ffd57a60c436b364fa7d68cd705b2083e3049d08a0b420e557688de6aeb91"
+hash = "50db86862611cb136d79cdc3723113c9416b09d75329c776db6100698014d779"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bc2c25da0bc489b6351c0b6eadf1f74ea474e29eafc3111ab25b508c7f37eef4"
+hash = "6404099140c5c4ac80d44f5b9def49660c4b6a64c8ebb72108a64128a604b746"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "ff4ebe61ef9e99f0997ff7ee8f92b861c1b76d0974cb2d0c699f75a26733cd17"
+hash = "5600b683c01cc5b26911dee2c0cca586b26e11c9b457e3e8fdd89b7508ac2490"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "e0141dda314787e9833d3057fb9a4d0b39d3c096b5bc449a55f0cfccbfef4349"
+hash = "19bfafdc6f766290c48c37924eec4724b15adb08568059add1706b771aea26d4"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "28c3d084d26b0bc5d7750b0c14299973b3f18d3f72a5cb2a7c4cb31a416f88eb"
+hash = "cfdf8ce287798467195babea936fdfeba19156d8ccece51fbf7892ad45c064e9"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/tt20.pw.toml"
-hash = "cedc86631e22fd1c63bd0892e08e542aec61dc98137832161c51f7cbd9be3ed4"
+hash = "1b73c878a3711bcc8f7933dc257988f35a4afbd13563f1f9c3749ec6e5d4e0ac"
 metafile = true
 
 [[files]]
