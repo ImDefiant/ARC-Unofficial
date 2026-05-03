@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e40d783aaa94847369d4ccaeb06101bb52601fa07e380d635c2877a3516f8834"
+hash = "54753297d08a5f21172f81baa9ee35a97214e6b1f9b4970968dc66cce2d0faaa"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
-hash = "50db86862611cb136d79cdc3723113c9416b09d75329c776db6100698014d779"
+hash = "e65286170aa7ec8cfec932c32b8c69c782308653ce14a143645b3aeed64eba86"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "5600b683c01cc5b26911dee2c0cca586b26e11c9b457e3e8fdd89b7508ac2490"
+hash = "d9a48f7d9bee30f70be1a8c3208e2f5a4c8732a38110146e66903a489d28b53c"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "c68f5d266376e63a13429b21a343eab420ef69864ff5b19a227c9de01e3b9817"
+hash = "62c0acc833274173a2e9036ad2a3e58af5b2454dbc628f3cf6b65015a4a5b224"
 metafile = true
 
 [[files]]
